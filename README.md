@@ -1,24 +1,31 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+bundle install
 
-Things you may want to cover:
+rake db:create
 
-* Ruby version
+rake db:migrate
 
-* System dependencies
 
-* Configuration
+rails s
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+pinterst-front
+
+vue js front end 
+
+
+install cors
+
+CORS Unblock on chrome if cors error occurs
+
+running vue js
+
+npm run serve
+
+
+
